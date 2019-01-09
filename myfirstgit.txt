@@ -218,11 +218,9 @@ Fefeferfezfe
 
 Héhéhéhéh
 
-Lollololololollo
-<<<<<<< HEAD
+Lollolololol
 Mdrr
 
 Bon la ca devrait marcher
-=======
+
 mdrr
->>>>>>> newfonc
